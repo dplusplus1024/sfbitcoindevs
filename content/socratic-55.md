@@ -25,6 +25,7 @@ News & Announcements
 --------------------
 
 - [Ross Ulbricht granted full and unconditional pardon](https://freeross.org/)
+- [Lightning Developers](https://sflightningdevs.org/) meetup at Presidio Bitcoin on Thursday, March 13ᵗʰ
 - [Coinbase launches Bitcoin-backed loans](https://x.com/coinbase/status/1879902780564951530)
 - [Bitcoin Miner MARA Lends 16% of Its 44,893 BTC Reserves](https://theminermag.com/news/2025-01-05/mara-lend-bitcoin-btc/)
 - [Lava raises $10 million in a Series A funding round led by Khosla Ventures and Founders Fund](https://fortune.com/2024/12/09/bitcoin-lending-lava-khosla-keith-rabois-founders-fund-venture/)
